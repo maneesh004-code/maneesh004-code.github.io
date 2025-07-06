@@ -39,5 +39,4 @@ This is a simple static website built using **HTML**, **CSS**, and **JavaScript*
 
 1. **Clone the repo:**
 
-   git clone https://github.com///maneesh004-code.github.io))
-
+   https://github.com/maneesh004-code/maneesh004-code.github.io
