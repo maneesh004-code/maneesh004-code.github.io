@@ -6,7 +6,7 @@ This is a simple static website built using **HTML**, **CSS**, and **JavaScript*
 
 👉 [Click here to view the live website](https://maneesh004-code.github.io)
 
-*(Replace `yourusername` with your actual GitHub username)*
+
 
 ---
 
